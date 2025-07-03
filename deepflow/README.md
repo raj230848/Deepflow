@@ -60,7 +60,7 @@ Found that Decision tree based models are able to maximize the F1 score
      
  II.Regularization
 
-    to get rid of overfitting, we use regularisation
+    to get rid of overfitting, we have used regularisation
      1.L1 regularization
      2.L2 regularization
 
