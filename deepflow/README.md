@@ -17,7 +17,7 @@
     5. Random forest
     6. Bagging classifier
     7. Boosting:
-          i.Adabost
+          i.Adaboost
           ii. Gradient boost
           iii.XGBoost classifier
     8. Extratree classifier
